@@ -14,7 +14,7 @@
 
 - [[fib]]
 - [[ebl]]
-- [[chromium and oxgen plasma]]
+- [[chromium and oxygen plasma]]
 - [[ebl parameters]]
 
 ### Etching
