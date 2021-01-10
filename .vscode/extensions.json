@@ -19,7 +19,21 @@
 
     // Adds `show graph` command that displays graph of linked notes
     "tchayen.markdown-links",
-
+    "bierner.emojisense",
+    "akamud.vscode-theme-onelight",
+    "hediet.vscode-drawio",
+    "kisstkondoros.vscode-gutter-preview",
+    "yzhang.markdown-all-in-one",
+    "bierner.markdown-emoji",
+    "jebbs.markdown-extended",
+    "josephcz.vscode-markdown-mindmap-preview",
+    "kortina.vscode-markdown-notes",
+    "skn0tt.markdown-link-expander",
+    "marp-team.marp-vscode",
+    "mushan.vscode-paste-image",
+    "esbenp.prettier-vscode",
+    "ban.spellright",
+    "gruntfuggly.todo-tree",
     // Understated grayscale theme (light and dark variants)
     // "philipbe.theme-gray-matter"
   ]

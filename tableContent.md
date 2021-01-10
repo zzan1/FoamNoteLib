@@ -1,32 +1,39 @@
 # Diamond grating
 
 ## Properties of diamond grating
+
 - [[Low reflective index decrement]]
 
 ## Fabrication
 
 ### Deposition
+
 - [[sputter]]
-  
+
 ### Pattern
+
 - [[fib]]
 - [[ebl]]
 - [[chromium and oxgen plasma]]
 - [[ebl parameters]]
+
 ### Etching
+
 - [[hard-mask-diamond]]
 - [[icp-rie]]
 - [[tapered structure]]
+- [[rie]]
+- [[plasma etching]]
 
-# FELs
+## FELs
 
-## SASE
-
+### SASE
 
 - [[fluctuation_of_shot_to_shot]]
 - [[behavior_of_seed_electron]]
 
-# Spectrometer Design 
+## Spectrometer Design
+
 - [[transmissive-spectrometer-design]]
 
 

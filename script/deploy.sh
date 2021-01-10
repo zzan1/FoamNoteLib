@@ -5,6 +5,7 @@ rsync -avzu --progress --exclude-from '/home/aatrox/document/foam-template-maste
 
 
 # deploy
+cd ~/document/gatsby/foam
 # ~/document/gatsby/node_modules/gatsby-cli/cli.js clean
 ~/document/gatsby/node_modules/gatsby-cli/cli.js build
 
