@@ -8,7 +8,7 @@ Plasma etching replace [[wet etching]], because:
 
 Plasma produce:
 
-1. Low pressure, 1mtorr ~ 1 torr;  
+1. Low pressure, 1 mtorr ~ 1 torr;  
 
 2. RF generator usually operation at 13.56 MHz;
 
